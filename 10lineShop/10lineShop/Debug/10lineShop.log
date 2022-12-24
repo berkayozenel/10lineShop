@@ -1,0 +1,5 @@
+﻿  10lineShop.c
+c:\users\casper\source\repos\10lineshop\10lineshop\10lineshop.c(37): warning C4013: 'strtol' undefined; assuming extern returning int
+c:\users\casper\source\repos\10lineshop\10lineshop\10lineshop.c(92): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\casper\source\repos\10lineshop\10lineshop\10lineshop.c(7): warning C4305: 'initializing': truncation from 'double' to 'float'
+  10lineShop.vcxproj -> C:\Users\CASPER\source\repos\10lineShop\Debug\10lineShop.exe
